@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestingInstantApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_activity">First Activity</string>
+    <string name="write_here">WRITE HERE</string>
+    <string name="send">SEND</string>
+    <string name="title_activity_two">ActivityTwo</string>
+    <string name="second_activity">Second Activity</string>
+</resources>
