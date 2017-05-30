@@ -1,10 +1,13 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.feature'
 
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.3"
+
+    baseFeature true
+
     defaultConfig {
-        applicationId "com.new_something.testingapp"
+        //applicationId "com.new_something.testingapp"
         minSdkVersion 19
         targetSdkVersion 25
         versionCode 1
